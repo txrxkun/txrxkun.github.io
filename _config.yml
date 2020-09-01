@@ -4,16 +4,14 @@
 title: Y - Blog
 
 # Your name to show in the footer
-author: chikasboyfriend
+author: @chikasboyfriend
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Website:
+    - Yssctmr: "https://yssctmr.xyz"
 
 # --- Logo --- #
 
@@ -34,10 +32,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+# email: "someone@example.com"
+# facebook: deanattali
+  github: txrxkun
+  twitter: chikasboyfriend
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -66,7 +64,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -105,7 +103,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
